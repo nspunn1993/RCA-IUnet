@@ -14,11 +14,14 @@ The model is built with Tensorflow v2.6
 
 # Citation
 ```
-@article{punn2021rca,
-  title={RCA-IUnet: A residual cross-spatial attention guided inception U-Net model for tumor segmentation in breast ultrasound imaging},
+@article{punn2022rca,
+  title={RCA-IUnet: a residual cross-spatial attention-guided inception U-Net model for tumor segmentation in breast ultrasound imaging},
   author={Punn, Narinder Singh and Agarwal, Sonali},
-  journal={arXiv preprint arXiv:2108.02508},
-  year={2021}
+  journal={Machine Vision and Applications},
+  volume={33},
+  number={2},
+  pages={1--10},
+  year={2022},
+  publisher={Springer}
 }
 ```
-The paper is accpeted in Journal of Machine Vision and Applications, Springer (in press)
